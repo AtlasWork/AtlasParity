@@ -1,24 +1,18 @@
-# [Parity](https://parity.io/) - fast, light, and robust Ethereum client
+# [AtlasParity](http://atlasparity.atlasblockchain.work/) - fast, light, and robust Atlas Blockchain client
 
-[![build status](https://gitlab.parity.io/parity/parity/badges/master/build.svg)](https://gitlab.parity.io/parity/parity/commits/master)
-[![codecov](https://codecov.io/gh/paritytech/parity/branch/master/graph/badge.svg)](https://codecov.io/gh/paritytech/parity)
-[![Snap Status](https://build.snapcraft.io/badge/paritytech/parity.svg)](https://build.snapcraft.io/user/paritytech/parity)
-[![GPLv3](https://img.shields.io/badge/license-GPL%20v3-green.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-- [Download the latest release here.](https://github.com/paritytech/parity/releases/latest)
+- [Download the latest release here.](https://atlaswallet.com/atlasparity/releases/latest)
 
 ### Join the chat!
 
 Get in touch with us on Gitter:
-[![Gitter: Parity](https://img.shields.io/badge/gitter-parity-4AB495.svg)](https://gitter.im/paritytech/parity)
-[![Gitter: Parity.js](https://img.shields.io/badge/gitter-parity.js-4AB495.svg)](https://gitter.im/paritytech/parity.js)
-[![Gitter: Parity/Miners](https://img.shields.io/badge/gitter-parity/miners-4AB495.svg)](https://gitter.im/paritytech/parity/miners)
+[![Gitter: AtlasParity](https://img.shields.io/badge/gitter-parity-4AB495.svg)](https://atlasblockchain.work/atlasparity)
+[![Gitter: AtlasParity.js](https://img.shields.io/badge/gitter-parity.js-4AB495.svg)](https://atlasblockchain.work/atlasparity.js)
+[![Gitter: AtlasParity/Miners](https://img.shields.io/badge/gitter-parity/miners-4AB495.svg)](https://atlasblockchain.work)
 [![Gitter: Parity-PoA](https://img.shields.io/badge/gitter-parity--poa-4AB495.svg)](https://gitter.im/paritytech/parity-poa)
 
-Or join our community on Matrix:
-[![Riot: +Parity](https://img.shields.io/badge/riot-%2Bparity%3Amatrix.parity.io-orange.svg)](https://riot.im/app/#/group/+parity:matrix.parity.io)
+Or join our community
 
-Be sure to check out [our wiki](https://paritytech.github.io/wiki/) and the [internal documentation](https://paritytech.github.io/parity/ethcore/index.html) for more information.
+Be sure to check out [our wiki](https://github.com/AtlasWork/AtlasParity/wiki) and the [internal documentation](https://atlaswallet.com/docs/atlasparity) for more information.
 
 ----
 
