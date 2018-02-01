@@ -22,24 +22,24 @@ Be sure to check out [our wiki](https://paritytech.github.io/wiki/) and the [int
 
 ----
 
-## About Parity
+## About AtlasParity
 
-Parity's goal is to be the fastest, lightest, and most secure Ethereum client. We are developing Parity using the sophisticated and cutting-edge Rust programming language. Parity is licensed under the GPLv3, and can be used for all your Ethereum needs.
+AtlasParity's goal is to be the fastest, lightest, and most secure Atlas Blockchain client. We are developing AtlasParity using the sophisticated and cutting-edge Rust programming language. Parity is licensed under the GPLv3, and can be used for all your Atlas development needs.
 
 Parity comes with a built-in wallet. To access [Parity Wallet](http://web3.site/) simply go to http://web3.site/ (if you don't have access to the internet, but still want to use the service, you can also use http://127.0.0.1:8180/). It includes various functionality allowing you to:
 
-- create and manage your Ethereum accounts;
-- manage your Ether and any Ethereum tokens;
+- create and manage your Atlas accounts;
+- manage your WORK and any Atlas tokens;
 - create and register your own tokens;
 - and much more.
 
-By default, Parity will also run a JSONRPC server on `127.0.0.1:8545` and a websockets server on `127.0.0.1:8546`. This is fully configurable and supports a number of APIs.
+By default, AtlasParity will also run a JSONRPC server on `127.0.0.1:8545` and a websockets server on `127.0.0.1:8546`. This is fully configurable and supports a number of APIs.
 
-If you run into an issue while using Parity, feel free to file one in this repository or hop on our [Gitter](https://gitter.im/paritytech/parity) or [Riot](https://riot.im/app/#/group/+parity:matrix.parity.io) chat room to ask a question. We are glad to help!
+If you run into an issue while using AtlasParity, feel free to file one in this repository or hop on our [Gitter](https://gitter.im/paritytech/parity) or [Riot](https://riot.im/app/#/group/+parity:matrix.parity.io) chat room to ask a question. We are glad to help!
 
 **For security-critical issues**, please refer to the security policy outlined in [SECURITY.MD](SECURITY.md).
 
-Parity's current release is 1.8. You can download it at https://github.com/paritytech/parity/releases or follow the instructions below to build from source.
+AtlasParity's current release is 1.8. You can download it at https://github.com/paritytech/parity/releases or follow the instructions below to build from source.
 
 ----
 
@@ -90,8 +90,8 @@ sudo snap install parity --edge
 
 ```bash
 # download Parity code
-$ git clone https://github.com/paritytech/parity
-$ cd parity
+$ git clone https://github.com/AtlasWork/AtlasParity.git
+$ cd AtlasParity
 
 # build in release mode
 $ cargo build --release
@@ -124,7 +124,7 @@ This will always compile the latest nightly builds. If you want to build stable 
 ## Simple one-line installer for Mac and Ubuntu
 
 ```bash
-bash <(curl https://get.parity.io -Lk)
+bash <(curl https://getparity.atlasblockchain.work -Lk)
 ```
 
 The one-line installer always defaults to the latest beta release.
